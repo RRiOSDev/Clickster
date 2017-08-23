@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1E7DCD12021DE2352E3175A55BCC54ACEE7F761F" : 9223372036854775807,
+    "C4A97974195067EAA64A45599E308CB05FE0D9D4" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FC6A3129-98CD-4806-BA18-6E375B2A040C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1E7DCD12021DE2352E3175A55BCC54ACEE7F761F" : "",
+    "C4A97974195067EAA64A45599E308CB05FE0D9D4" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Clikster",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Clikster.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/RRiOSDev\/Clickster.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1E7DCD12021DE2352E3175A55BCC54ACEE7F761F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/RRiOSDev\/iOS-PersistenceCoreData.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C4A97974195067EAA64A45599E308CB05FE0D9D4"
+    }
+  ]
+}
